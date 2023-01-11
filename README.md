@@ -20,7 +20,8 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 
 ## T-Tests on Suspension Coils
-image![Screenshot 2023-01-11 at 3 22 13 AM](https://user-images.githubusercontent.com/109382758/211822738-eed10593-afbe-4821-a06a-efc3c558de4c.png)
+![Screenshot 2023-01-11 at 3 22 13 AM](https://user-images.githubusercontent.com/109382758/211822738-eed10593-afbe-4821-a06a-efc3c558de4c.png)
+T-test of all manufacturing lot
 
 - Assumming the significant level is 0.05, meaning the p_value is lower, therefore, do have sufficient evidence to reject the null hypothesis, thus we can state that the two means are statistically similar.
 
